@@ -1,0 +1,31 @@
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.exe.config
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.exe
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.pdb
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.AssemblyReference.cache
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.Form1.resources
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.Properties.Resources.resources
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.GenerateResource.cache
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.CoreCompileInputs.cache
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.exe
+D:\RENATA\Exercícios de Lógica Condicional 02\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.pdb
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.exe.config
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.exe
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.pdb
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.AssemblyReference.cache
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.Form1.resources
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.Properties.Resources.resources
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.GenerateResource.cache
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.CoreCompileInputs.cache
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.exe
+D:\Precisa Verificar - Estrutura Condicional\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.pdb
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.exe.config
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.exe
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\bin\Debug\SistemaValoresNumericos.pdb
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.AssemblyReference.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.SuggestedBindingRedirects.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.Form1.resources
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.Properties.Resources.resources
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.GenerateResource.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.csproj.CoreCompileInputs.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.exe
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaValoresNumericos\obj\Debug\SistemaValoresNumericos.pdb

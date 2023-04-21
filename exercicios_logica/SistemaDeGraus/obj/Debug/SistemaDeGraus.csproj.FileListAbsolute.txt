@@ -1,0 +1,31 @@
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\bin\Debug\SistemaDeGraus.exe.config
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\bin\Debug\SistemaDeGraus.exe
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\bin\Debug\SistemaDeGraus.pdb
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.AssemblyReference.cache
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.Form1.resources
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.Properties.Resources.resources
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.GenerateResource.cache
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.CoreCompileInputs.cache
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.exe
+E:\RENATA\Exercícios de Lógica Condicional 02\SistemaDeGraus\obj\Debug\SistemaDeGraus.pdb
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\bin\Debug\SistemaDeGraus.exe.config
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\bin\Debug\SistemaDeGraus.exe
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\bin\Debug\SistemaDeGraus.pdb
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.AssemblyReference.cache
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.Form1.resources
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.Properties.Resources.resources
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.GenerateResource.cache
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.CoreCompileInputs.cache
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.exe
+E:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.pdb
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\bin\Debug\SistemaDeGraus.exe.config
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\bin\Debug\SistemaDeGraus.exe
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\bin\Debug\SistemaDeGraus.pdb
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.AssemblyReference.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.SuggestedBindingRedirects.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.Form1.resources
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.Properties.Resources.resources
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.GenerateResource.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.csproj.CoreCompileInputs.cache
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.exe
+D:\RENATA\C# - Exercícios\Exercícios Condicional - Isabela (TI 43)\SistemaDeGraus\obj\Debug\SistemaDeGraus.pdb
